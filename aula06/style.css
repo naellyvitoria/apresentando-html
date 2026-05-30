@@ -1,0 +1,9 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  background-color: aliceblue;
+  color: chartreuse;
+  border: 3px solid red;
+}
